@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<javaAgentsConfig>
+  <agents>
+  <agent name="agentNabf1" entity="connectionNabf1" class="massim.javaagents.agents.SimpleExplorerAgent" team="Nabf"/>
+  </agents>
+</javaAgentsConfig>

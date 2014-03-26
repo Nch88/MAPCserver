@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<interfaceConfig scenario="mars2013" host="localhost" port="12300" scheduling="yes" times="no" notifications="no" queued="no" statisticsFile="no" statisticsShell="no" submitStatistic="no">
+  <entities>    
+    <entity name="connectionNabf1" username="Nabf1" password="pass" iilang="yes" xml="yes"/>
+  </entities>
+</interfaceConfig>
