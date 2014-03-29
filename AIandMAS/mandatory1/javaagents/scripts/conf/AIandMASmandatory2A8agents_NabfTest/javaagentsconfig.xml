@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<javaAgentsConfig>
+  <agents>
+  <agent name="agentNabf1" entity="connectionNabf1" class="massim.javaagents.agents.SimpleDebugActionAgent" team="Nabf"/>
+  <agent name="agentNabf2" entity="connectionNabf2" class="massim.javaagents.agents.SimpleDebugActionAgent" team="Nabf"/>
+  <agent name="agentNabf3" entity="connectionNabf3" class="massim.javaagents.agents.SimpleDebugActionAgent" team="Nabf"/>
+  <agent name="agentNabf4" entity="connectionNabf4" class="massim.javaagents.agents.SimpleDebugActionAgent" team="Nabf"/>
+  <agent name="agentNabf5" entity="connectionNabf5" class="massim.javaagents.agents.SimpleDebugActionAgent" team="Nabf"/>
+  <agent name="agentNabf6" entity="connectionNabf6" class="massim.javaagents.agents.SimpleDebugActionAgent" team="Nabf"/>
+  <agent name="agentNabf7" entity="connectionNabf7" class="massim.javaagents.agents.SimpleDebugActionAgent" team="Nabf"/>
+  <agent name="agentNabf8" entity="connectionNabf8" class="massim.javaagents.agents.SimpleDebugActionAgent" team="Nabf"/>
+  </agents>
+</javaAgentsConfig>

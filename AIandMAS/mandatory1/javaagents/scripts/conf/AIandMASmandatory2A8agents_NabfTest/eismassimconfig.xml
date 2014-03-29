@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<interfaceConfig scenario="mars2013" host="localhost" port="12300" scheduling="yes" times="no" notifications="no" queued="no" statisticsFile="no" statisticsShell="no" submitStatistic="no">
+  <entities>    
+    <entity name="connectionNabf1" username="Nabf1" password="1" iilang="yes" xml="yes"/>
+	<entity name="connectionNabf2" username="Nabf2" password="1" iilang="yes" xml="yes"/>
+	<entity name="connectionNabf3" username="Nabf3" password="1" iilang="yes" xml="yes"/>
+	<entity name="connectionNabf4" username="Nabf4" password="1" iilang="yes" xml="yes"/>
+	<entity name="connectionNabf5" username="Nabf5" password="1" iilang="yes" xml="yes"/>
+	<entity name="connectionNabf6" username="Nabf6" password="1" iilang="yes" xml="yes"/>
+	<entity name="connectionNabf7" username="Nabf7" password="1" iilang="yes" xml="yes"/>
+	<entity name="connectionNabf8" username="Nabf8" password="1" iilang="yes" xml="yes"/>
+  </entities>
+</interfaceConfig>
